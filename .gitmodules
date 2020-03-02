@@ -1,0 +1,8 @@
+[submodule "wine"]
+	path = wine
+	url = https://github.com/lutris/wine.git
+	branch = lutris-5.2
+[submodule "dxvk"]
+	path = dxvk
+	url = https://github.com/doitsujin/dxvk.git
+	branch = master
