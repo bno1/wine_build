@@ -6,3 +6,7 @@
 	path = dxvk
 	url = https://github.com/doitsujin/dxvk.git
 	branch = master
+[submodule "wine-staging"]
+	path = wine-staging
+	url = https://github.com/wine-staging/wine-staging.git
+	branch = master
